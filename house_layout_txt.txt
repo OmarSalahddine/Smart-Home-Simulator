@@ -1,0 +1,134 @@
+$House: "325 Lakeview, Pointe-Claire"{
+    $Room: "BuildingEntrance"{
+        $roomID: "area18"{
+        }
+        $Window: "FrontDoorWindow1"{
+        }
+        $Window: "FrontDoorWindow2"{
+        }
+        $Door: "FrontDoor1"{
+        }
+        $Door: "FrontDoor2"{
+        }
+        $Light: "FrontDoorLight1"{
+        }
+        $Light: "FrontDoorLight2"{
+        }
+    }
+    $Room: "Kitchen"{
+        $roomID: "area19"{
+        }
+        $Window: "NorthWindow" {
+        }
+        $Window: "EastWindow"{
+        }
+        $Door: "DoorToBackyard"{
+        }
+        $Door: "OfficeDoor"{
+        }
+        $Light: "IslandLight1"{
+        }
+        $Light: "IslandLight2"{
+        }
+        $Light: "IslandLight3"{
+        }
+    }
+    $Room: "LivingRoom"{
+        $roomID: "area17"{
+        }
+        $Window: "NorthWindow1"{
+        }
+        $Window: "NorthWindow2"{
+        }
+        $Light: "TVLight1"{
+        }
+        $Light: "TVLight2"{
+        }
+    }
+    $Room: "FamilyRoom"{
+        $roomID: "area13"{
+        }
+        $Window: "SouthWindow1"{
+        }
+        $Window: "SouthWindow2"{
+        }
+        $Window: "EastWindow1"{
+        }
+        $Window: "EastWindow2"{
+        }
+        $Door: "SideDoor"{
+        }
+        $Door: "DoorToFrontEntrance"{
+        }
+        $Door: "DoorToGarage"{
+        }
+        $Light: "SouthWindow1Light"{
+        }
+        $Light: "SouthWindow2Light"{
+        }
+        $Light: "EastWindow1Light"{
+        }
+        $Light: "EastWindow2Light"{
+        }
+        $Light: "SideDoorLight1"{
+        }
+        $Light: "DoorToBuildingEntranceLight1"{
+        }
+        $Light: "DoorToGarageLight2"{
+        }
+    }
+    $Room: "Office"{
+        $roomID: "area12"{
+        }
+        $Window: "NorthWindow1"{
+        }
+        $Window: "NorthWindow2"{
+        }
+        $Door: "DoorToKitchen"{
+        }
+        $Light: "DeskLight1"{
+        }
+        $Light: "CeilingLight1"{
+        }
+        $Light: "CeilingLight2"{
+        }
+    }
+    $Room: "Garage"{
+        $roomID: "area14"{
+        }
+        $Window: "EastWindow"{
+        }
+        $Window: "WestWindow"{
+        }
+        $Door: "GarageDoor1"{
+        }
+        $Door: "GarageDoor2"{
+        }
+        $Door: "DoorToFamilyRoom"{
+        }
+        $Light: "OverheadLight1"{
+        }
+        $Light: "OverheadLight2"{
+        }
+        $Light: "DoorToFamilyRoomLight"{
+        }
+    }
+    $Room: "Backyard"{
+        $roomID: "area8"{
+        }
+        $Door: "DoorToKitchen1"{
+        }
+        $Door: "DoorToKitchen2"{
+        }
+        $Light: "BackyardLight1"{
+        }
+        $Light: "BackyardLight2"{
+        }
+        $Light: "BackyardLight3"{
+        }
+    }
+    $Room: "Away"{
+        $roomID: "NA"{
+        }
+    }
+}

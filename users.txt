@@ -1,0 +1,15 @@
+Bob
+PARENT
+Kitchen
+
+Mary
+CHILD
+BuildingEntrance
+
+Stranger
+STRANGER
+Away
+
+Fred
+GUEST
+Kitchen
